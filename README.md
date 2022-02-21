@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm majoring ... </br>
-Mathematics Specialist
+Mathematics Specialist </br>
 IT engineering(Double Major)
 - 222.01~ : SMWU HCI Lab Research Intern
 - 2021.09~2021.12: Exchange student at University of Toronto
